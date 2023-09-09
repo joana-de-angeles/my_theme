@@ -2,7 +2,7 @@
   "name": "my-own-monokai",
   "displayName": "My Own Monokai",
   "description": "Releitura do tema Monokai",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "engines": {
     "vscode": "^1.82.0"
   },
