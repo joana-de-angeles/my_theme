@@ -127,6 +127,16 @@
       }
     },
     {
+      "name": "HTML String",
+      "scope": [
+        "string.quoted.double.html",
+        "string.quoted.single.html"
+      ],
+      "settings": {
+        "foreground": "#fd971f"  
+      }
+    },
+    {
       "name": "markup diff",
       "scope": "markup.changed.diff",
       "settings": {
