@@ -116,7 +116,7 @@
       "name": "Text",
       "scope": "variable.parameter.function",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#a6e22e"
       }
     },
     {
@@ -2026,7 +2026,7 @@
     "notificationCenterHeader.foreground": "#cccccc",
     "notificationCenterHeader.background": "#303031",
     "notifications.border": "#303031",
-    "gitDecoration.addedResourceForeground": "#81b88b",
+    "gitDecoration.addedResourceForeground": "#a6e22e",
     "gitDecoration.conflictingResourceForeground": "#6c6cc4",
     "gitDecoration.deletedResourceForeground": "#c74e39",
     "gitDecoration.ignoredResourceForeground": "#8c8c8c",
@@ -2034,7 +2034,7 @@
     "gitDecoration.stageDeletedResourceForeground": "#c74e39",
     "gitDecoration.stageModifiedResourceForeground": "#66d9ef",
     "gitDecoration.submoduleResourceForeground": "#8db9e2",
-    "gitDecoration.untrackedResourceForeground": "#73c991",
+    "gitDecoration.untrackedResourceForeground": "#a6e22e",
     "editorMarkerNavigation.background": "#2d2d30",
     "editorMarkerNavigationError.background": "#f48771",
     "editorMarkerNavigationWarning.background": "#cca700",
