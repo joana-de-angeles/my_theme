@@ -1,37 +1,28 @@
 {
   "name": "my-own-monokai",
-  "displayName": "My-Own-Monokai",
-  "description": "Desenvolvido como uma releitura do tema Monokai",
-  "version": "0.0.1",
+  "displayName": "My Own Monokai",
+  "description": "Releitura do tema Monokai",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.82.0"
   },
   "categories": [
     "Themes"
   ],
-  "activationEvents": [
-    ""
-  ],
-  "main": "themes/My_Own_Monokai-color-theme.json",
+  "icon":"keyboard.png"
+  ,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joana-de-angeles/my_theme"
+  },
+  "publisher": "JoanadeAngeles",
   "contributes": {
-    "commands": [
+    "themes": [
       {
-        "command": "extensao-comando",
-        "title": "Executar Comando da Extensão"
+        "label": "My Own Monokai",
+        "uiTheme": "vs-dark",
+        "path": "./themes/my_own_monokai-color-theme.json"
       }
     ]
-  },
-  
-  "devDependencies": {
-    "typescript": "^4.4.3",
-    "@types/node": "^18.17.1",
-    "vscode": "^1.82.0"
   }
 }
-
-
-
-
-
-
-
