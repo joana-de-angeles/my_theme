@@ -7,7 +7,7 @@
       "foreground": "#a6e22e"
     },
     "variable.constant": {
-      "foreground": "#ae81ff"
+      "foreground": "#66d9ef"
     },
     "variable.defaultLibrary": {
       "foreground": "#fd971f"
@@ -280,7 +280,7 @@
       "name": "support.constant.property-value.scss",
       "scope": "support.constant.property-value.scss,support.constant.property-value.css",
       "settings": {
-        "foreground": "#ae81ff"
+        "foreground": "#66d9ef"
       }
     },
     {
@@ -294,7 +294,7 @@
       "name": "css color standard name",
       "scope": "support.constant.color.w3c-standard-color-name.css,support.constant.color.w3c-standard-color-name.scss",
       "settings": {
-        "foreground": "#ae81ff"
+        "foreground": "#66d9ef"
       }
     },
     {
@@ -308,7 +308,7 @@
       "name": "css attribute-name.id",
       "scope": "support.constant.color.w3c-standard-color-name.css",
       "settings": {
-        "foreground": "#ae81ff"
+        "foreground": "#66d9ef"
       }
     },
     {
@@ -606,21 +606,21 @@
       "name": "Classes",
       "scope": "entity.name.type.namespace",
       "settings": {
-        "foreground": "#fd971f"
+        "foreground": "#66d9ef"
       }
     },
     {
       "name": "Classes",
       "scope": "support.class, entity.name.type.class",
       "settings": {
-        "foreground": "#fd971f"
+        "foreground": "#66d9ef"
       }
     },
     {
       "name": "Class name",
       "scope": "entity.name.class.identifier.namespace.type",
       "settings": {
-        "foreground": "#fd971f"
+        "foreground": "#66d9ef"
       }
     },
     {
@@ -631,7 +631,7 @@
         "variable.other.class.ts"
       ],
       "settings": {
-        "foreground": "#fd971f"
+        "foreground": "#66d9ef"
       }
     },
     {
@@ -764,14 +764,14 @@
       "name": "Constants",
       "scope": "constant",
       "settings": {
-        "foreground": "#ae81ff"
+        "foreground": "#fd971f"
       }
     },
     {
       "name": "Constants",
       "scope": "punctuation.definition.constant",
       "settings": {
-        "foreground": "#ae81ff"
+        "foreground": "#fd971f"
       }
     },
     {
@@ -785,7 +785,7 @@
       "name": "Attributes",
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#ae81ff"
+        "foreground": "#66d9ef"
       }
     },
     {
@@ -801,7 +801,7 @@
       "scope": "entity.other.attribute-name.class.css",
       "settings": {
         "fontStyle": "normal",
-        "foreground": "#ae81ff"
+        "foreground": "#66d9ef"
       }
     },
     {
