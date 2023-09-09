@@ -1,0 +1,28 @@
+{
+  "name": "my-own-monokai",
+  "displayName": "My Own Monokai",
+  "description": "Releitura do tema Monokai",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon":"keyboard.png"
+  ,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joana-de-angeles/my_theme"
+  },
+  "publisher": "JoanadeAngeles",
+  "contributes": {
+    "themes": [
+      {
+        "label": "My Own Monokai",
+        "uiTheme": "vs-dark",
+        "path": "./themes/my_own_monokai-color-theme.json"
+      }
+    ]
+  }
+}
