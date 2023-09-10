@@ -1216,7 +1216,7 @@
       "name": "parameter function js/ts",
       "scope": "function.parameter",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#fd971f"
       }
     },
     {
@@ -1230,7 +1230,7 @@
       "name": "parameter function ruby cs",
       "scope": "function.parameter.ruby, function.parameter.cs",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#fd971f"
       }
     },
     {
