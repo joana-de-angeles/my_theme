@@ -569,7 +569,7 @@
       "name": "Language variables",
       "scope": "variable.language",
       "settings": {
-        "foreground": "#fd971f"
+        "foreground": "#f92672"
       }
     },
     {
@@ -1373,7 +1373,7 @@
         "meta.property.object"
       ],
       "settings": {
-        "foreground": "#f92672"
+        "foreground": "#e1f9fd"
       }
     },
     {
@@ -1382,7 +1382,7 @@
         "variable.parameter.function.js"
       ],
       "settings": {
-        "foreground": "#f92672"
+        "foreground": "#fd971f"
       }
     },
     {
