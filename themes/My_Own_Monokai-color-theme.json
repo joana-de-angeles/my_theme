@@ -10,7 +10,7 @@
       "foreground": "#66d9ef"
     },
     "variable.defaultLibrary": {
-      "foreground": "#fd971f"
+      "foreground": "#f92672"
     }
   },
   "tokenColors": [
@@ -210,7 +210,7 @@
       "name": "js/ts variable.other.constant",
       "scope": "variable.other.constant",
       "settings": {
-        "foreground": "#fd971f"
+        "foreground": "#f92672"
       }
     },
     {
@@ -339,7 +339,7 @@
       "name": "entity.name.type.module",
       "scope": "entity.name.type.module",
       "settings": {
-        "foreground": "#fd971f"
+        "foreground": "#f92672"
       }
     },
     {
@@ -1364,7 +1364,7 @@
         "support.type.primitive"
       ],
       "settings": {
-        "foreground": "#fd971f"
+        "foreground": "#e1f9fd"
       }
     },
     {
