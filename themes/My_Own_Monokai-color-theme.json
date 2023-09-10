@@ -346,7 +346,7 @@
       "name": "js variable readwrite",
       "scope": "variable.other.readwrite,meta.object-literal.key,support.variable.property,support.variable.object.process,support.variable.object.node",
       "settings": {
-        "foreground": "#f92672"
+        "foreground": "#e1f9fd"
       }
     },
     {
@@ -548,7 +548,7 @@
       "name": "Namespaces",
       "scope": "entity.name.namespace",
       "settings": {
-        "foreground": "#fd971f"
+        "foreground": "#f92672"
       }
     },
     {
@@ -774,14 +774,14 @@
       "name": "Constants",
       "scope": "constant",
       "settings": {
-        "foreground": "#fd971f"
+        "foreground": "#f92672"
       }
     },
     {
       "name": "Constants",
       "scope": "punctuation.definition.constant",
       "settings": {
-        "foreground": "#fd971f"
+        "foreground": "#f92672"
       }
     },
     {
