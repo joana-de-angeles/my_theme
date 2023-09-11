@@ -347,10 +347,10 @@
 		},
 		{
 			"name": "Storage type",
-			"scope": "storage.type",
+			"scope": "storage.type source.css support.type, source.css support.class",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#fff"
+				"foreground": "#f2f2f2"
 			}
 		},
 		{
