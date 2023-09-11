@@ -279,7 +279,7 @@
 			"name": "String",
 			"scope": "string",
 			"settings": {
-				"foreground": "#b8f6f3"
+				"foreground": "#ccf9f7"
 			}
 		},
 		{
@@ -386,6 +386,14 @@
 			}
 		},
 		{
+			"name": "Atribute Object",
+			"scope": "variable.object.property",
+			"settings": {
+				"fontStyle": "italic",
+				"foreground": "#dcdcdc"
+			}
+		},
+		{
 			"name": "Tag name",
 			"scope": "entity.name.tag",
 			"settings": {
@@ -422,7 +430,7 @@
 			"scope": "support.type, support.class",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#A6E22E"
+				"foreground": "#66D9EF"
 			}
 		},
 		{
@@ -479,7 +487,7 @@
 			"name": "diff.changed",
 			"scope": "markup.changed",
 			"settings": {
-				"foreground": "#b8f6f3"
+				"foreground": "#ccf9f7"
 			}
 		},
 		{
@@ -491,7 +499,7 @@
 		{
 			"scope": "entity.name.filename.find-in-files",
 			"settings": {
-				"foreground": "#b8f6f3"
+				"foreground": "#ccf9f7"
 			}
 		},
 		{
@@ -505,7 +513,7 @@
 			"name": "Markup Lists",
 			"scope": "markup.list",
 			"settings": {
-				"foreground": "#b8f6f3"
+				"foreground": "#ccf9f7"
 			}
 		},
 		{
@@ -571,7 +579,7 @@
 			"name": "Markdown Underline Link/Image",
 			"scope": "markup.underline.link.markdown,markup.underline.link.image.markdown",
 			"settings": {
-				"foreground": "#b8f6f3"
+				"foreground": "#ccf9f7"
 			}
 		},
 		{
