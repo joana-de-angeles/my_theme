@@ -358,7 +358,7 @@
 			"scope": "entity.name.type, entity.name.class, entity.name.namespace, entity.name.scope-resolution",
 			"settings": {
 				"fontStyle": "underline",
-				"foreground": "#F92672"
+				"foreground": "#66D9EF"
 			}
 		},
 		{
