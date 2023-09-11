@@ -402,6 +402,13 @@
 			}
 		},
 		{
+			"name": "Object",
+			"scope": "object",
+			"settings": {
+			"foreground": "#66D9EF"
+			}
+		},
+		{
 			"name": "Tag name",
 			"scope": "entity.name.tag",
 			"settings": {
