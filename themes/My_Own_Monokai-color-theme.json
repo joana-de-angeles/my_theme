@@ -327,7 +327,7 @@
 			"scope": "variable",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#fbdcf4"
+				"foreground": "#fdf5fb"
 			}
 		},
 		{
@@ -366,7 +366,7 @@
 			"scope": "entity.other.inherited-class",
 			"settings": {
 				"fontStyle": "italic underline",
-				"foreground": "#66D9EF"
+				"foreground": "#FD971F"
 			}
 		},
 		{
