@@ -272,14 +272,14 @@
 			"name": "Comment",
 			"scope": "comment",
 			"settings": {
-				"foreground": "#88846f"
+				"foreground": "#5b5b5c"
 			}
 		},
 		{
 			"name": "String",
 			"scope": "string",
 			"settings": {
-				"foreground": "#E6DB74"
+				"foreground": "#b8f6f3"
 			}
 		},
 		{
@@ -327,7 +327,7 @@
 			"scope": "variable",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#F8F8F2"
+				"foreground": "#F92672"
 			}
 		},
 		{
@@ -358,7 +358,7 @@
 			"scope": "entity.name.type, entity.name.class, entity.name.namespace, entity.name.scope-resolution",
 			"settings": {
 				"fontStyle": "underline",
-				"foreground": "#A6E22E"
+				"foreground": "#66D9EF"
 			}
 		},
 		{
@@ -366,7 +366,7 @@
 			"scope": "entity.other.inherited-class",
 			"settings": {
 				"fontStyle": "italic underline",
-				"foreground": "#A6E22E"
+				"foreground": "#66D9EF"
 			}
 		},
 		{
@@ -374,7 +374,7 @@
 			"scope": "entity.name.function",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#A6E22E"
+				"foreground": "#66D9EF"
 			}
 		},
 		{
@@ -406,7 +406,7 @@
 			"scope": "support.function",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#66D9EF"
+				"foreground": "#A6E22E"
 			}
 		},
 		{
@@ -414,7 +414,7 @@
 			"scope": "support.constant",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#66D9EF"
+				"foreground": "#A6E22E"
 			}
 		},
 		{
@@ -422,7 +422,7 @@
 			"scope": "support.type, support.class",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#66D9EF"
+				"foreground": "#A6E22E"
 			}
 		},
 		{
@@ -479,7 +479,7 @@
 			"name": "diff.changed",
 			"scope": "markup.changed",
 			"settings": {
-				"foreground": "#E6DB74"
+				"foreground": "#b8f6f3"
 			}
 		},
 		{
@@ -491,7 +491,7 @@
 		{
 			"scope": "entity.name.filename.find-in-files",
 			"settings": {
-				"foreground": "#E6DB74"
+				"foreground": "#b8f6f3"
 			}
 		},
 		{
@@ -505,7 +505,7 @@
 			"name": "Markup Lists",
 			"scope": "markup.list",
 			"settings": {
-				"foreground": "#E6DB74"
+				"foreground": "#b8f6f3"
 			}
 		},
 		{
@@ -571,7 +571,7 @@
 			"name": "Markdown Underline Link/Image",
 			"scope": "markup.underline.link.markdown,markup.underline.link.image.markdown",
 			"settings": {
-				"foreground": "#E6DB74"
+				"foreground": "#b8f6f3"
 			}
 		},
 		{
