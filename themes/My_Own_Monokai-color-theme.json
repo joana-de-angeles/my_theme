@@ -358,7 +358,7 @@
 			"scope": "entity.name.type, entity.name.class, entity.name.namespace, entity.name.scope-resolution",
 			"settings": {
 				"fontStyle": "underline",
-				"foreground": "#66D9EF"
+				"foreground": "#F92672"
 			}
 		},
 		{
@@ -386,14 +386,6 @@
 			}
 		},
 		{
-			"name": "Atribute Object",
-			"scope": "variable.object.property",
-			"settings": {
-				"fontStyle": "italic",
-				"foreground": "#dcdcdc"
-			}
-		},
-		{
 			"name": "Tag name",
 			"scope": "entity.name.tag",
 			"settings": {
@@ -406,7 +398,7 @@
 			"scope": "entity.other.attribute-name",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#66D9EF"
+				"foreground": "#A6E22E"
 			}
 		},
 		{
@@ -488,6 +480,12 @@
 			"scope": "markup.changed",
 			"settings": {
 				"foreground": "#ccf9f7"
+			}
+		},
+		{
+			"scope": "entity.other.pseudo-element",
+			"settings": {
+				"foreground": "#FD971F" 
 			}
 		},
 		{
