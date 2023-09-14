@@ -6,4 +6,4 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
-- Initial release version 0.0.26
+- Initial release version 0.1.0
