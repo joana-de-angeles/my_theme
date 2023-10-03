@@ -14,10 +14,10 @@
     "activityBar.border": "#454242",
     "activityBar.activeBackground": "#282828",
     "sideBar.background": "#252526",
-    "sideBar.foreground": "#cccccc",
+    "sideBar.foreground": "#b5b5b5",
     "sideBarSectionHeader.background": "#00000000",
     "sideBarSectionHeader.foreground": "#cccccc",
-    "sideBarSectionHeader.border": "#cccccc33",
+    "sideBarSectionHeader.border": "#e9e9e950",
     "sideBarTitle.foreground": "#bbbbbb",
     "list.inactiveSelectionBackground": "#37373d",
     "list.inactiveSelectionForeground": "#cccccc",
@@ -219,7 +219,7 @@
     "peekViewResult.fileForeground": "#ffffff",
     "peekViewResult.lineForeground": "#bbbbbb",
     "peekViewResult.matchHighlightBackground": "#ea5c004d",
-    "peekViewResult.selectionBackground": "#3399ff33",
+    "peekViewResult.selectionBackground": "#2e4e6e33",
     "peekViewResult.selectionForeground": "#ffffff",
     "peekViewTitle.background": "#1e1e1e",
     "peekViewTitleDescription.foreground": "#ccccccb3",
@@ -357,8 +357,8 @@
 			"name": "Class name",
 			"scope": "entity.name.type, entity.name.class, entity.name.namespace, entity.name.scope-resolution",
 			"settings": {
-				"fontStyle": "underline",
-				"foreground": "#66D9EF"
+				"fontStyle": "",
+				"foreground": "#2ee27c"
 			}
 		},
 		
