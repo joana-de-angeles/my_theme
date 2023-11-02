@@ -1,4 +1,4 @@
-# My Own Monokai - Seu Tema Personalizado para o Visual Studio Code
+# My Own Monokai - Meu Tema Personalizado para o Visual Studio Code
 
 HTML
 ![Exemplo 1](html.JPG)
